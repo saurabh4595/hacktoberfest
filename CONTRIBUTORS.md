@@ -1,8 +1,4 @@
 
- #### Name: [Leon Todd](https://github.com/leontodd)
- - Place: Leicester, UK
- - Bio: Computer Science @ University of Leicester
- - GitHub: [Leon Todd](https://github.com/leontodd)
 
 #### Name: [Tilak N Shenoy](https://github.com/Tilak-Shenoy)
  - Place: Udupi, India
