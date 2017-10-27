@@ -1,9 +1,4 @@
 
-#### Name: [Tejas S](https://github.com/tejassateesh)
- - Place: Bengaluru, India
- - Bio: Computer Science @ RNSIT
- - GitHub: [byteme](https://github.com/tejassateesh)
- 
  #### Name: [Leon Todd](https://github.com/leontodd)
  - Place: Leicester, UK
  - Bio: Computer Science @ University of Leicester
